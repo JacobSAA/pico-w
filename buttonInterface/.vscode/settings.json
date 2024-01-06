@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "bit": "c",
+        "compare": "c",
+        "cstddef": "c",
+        "limits": "c",
+        "type_traits": "c",
+        "vector": "c",
+        "xutility": "c",
+        "http_client.h": "c",
+        "sstream": "c",
+        "atomic": "c",
+        "xlocale": "c",
+        "xstring": "c",
+        "*.inc": "c",
+        "iosfwd": "c"
+    }
+}

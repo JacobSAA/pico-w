@@ -1,0 +1,3 @@
+C:/Workspace/Pico/customBlinkProject/build/pioasm/CMakeFiles/pioasm.dir
+C:/Workspace/Pico/customBlinkProject/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Workspace/Pico/customBlinkProject/build/pioasm/CMakeFiles/rebuild_cache.dir
