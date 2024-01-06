@@ -4254,6 +4254,30 @@ C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\buttonInterface.dir\build.make CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
 .PHONY : C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
 
+apiCall/apiCall.obj: apiCall/apiCall.c.obj
+.PHONY : apiCall/apiCall.obj
+
+# target to build an object file
+apiCall/apiCall.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\buttonInterface.dir\build.make CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.obj
+.PHONY : apiCall/apiCall.c.obj
+
+apiCall/apiCall.i: apiCall/apiCall.c.i
+.PHONY : apiCall/apiCall.i
+
+# target to preprocess a source file
+apiCall/apiCall.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\buttonInterface.dir\build.make CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.i
+.PHONY : apiCall/apiCall.c.i
+
+apiCall/apiCall.s: apiCall/apiCall.c.s
+.PHONY : apiCall/apiCall.s
+
+# target to generate assembly for a file
+apiCall/apiCall.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\buttonInterface.dir\build.make CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.s
+.PHONY : apiCall/apiCall.c.s
+
 buttonInterface.obj: buttonInterface.c.obj
 .PHONY : buttonInterface.obj
 
@@ -4799,6 +4823,9 @@ help:
 	@echo ... C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj
 	@echo ... C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i
 	@echo ... C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s
+	@echo ... apiCall/apiCall.obj
+	@echo ... apiCall/apiCall.i
+	@echo ... apiCall/apiCall.s
 	@echo ... buttonInterface.obj
 	@echo ... buttonInterface.i
 	@echo ... buttonInterface.s

@@ -82,10 +82,24 @@ CMakeFiles/buttonInterface.dir/buttonInterface.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/buttonInterface.dir/buttonInterface.c.s"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Workspace\Pico\buttonInterface\buttonInterface.c -o CMakeFiles\buttonInterface.dir\buttonInterface.c.s
 
+CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.obj: CMakeFiles/buttonInterface.dir/flags.make
+CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.obj: C:/Workspace/Pico/buttonInterface/apiCall/apiCall.c
+CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.obj"
+	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.obj -MF CMakeFiles\buttonInterface.dir\apiCall\apiCall.c.obj.d -o CMakeFiles\buttonInterface.dir\apiCall\apiCall.c.obj -c C:\Workspace\Pico\buttonInterface\apiCall\apiCall.c
+
+CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.i"
+	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Workspace\Pico\buttonInterface\apiCall\apiCall.c > CMakeFiles\buttonInterface.dir\apiCall\apiCall.c.i
+
+CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.s"
+	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Workspace\Pico\buttonInterface\apiCall\apiCall.c -o CMakeFiles\buttonInterface.dir\apiCall\apiCall.c.s
+
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i: cmake_force
@@ -99,7 +113,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_st
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i: cmake_force
@@ -113,7 +127,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.i: cmake_force
@@ -127,7 +141,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_pl
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.i: cmake_force
@@ -141,7 +155,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.i: cmake_force
@@ -155,7 +169,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.i: cmake_force
@@ -168,7 +182,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj   -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.i: cmake_force
@@ -182,7 +196,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/sem.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/sem.c.obj: C:/Workspace/Pico/pico-sdk/src/common/pico_sync/sem.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/sem.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/sem.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/sem.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/sem.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_sync\sem.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_sync\sem.c.obj -c C:\Workspace\Pico\pico-sdk\src\common\pico_sync\sem.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/sem.c.i: cmake_force
@@ -196,7 +210,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/s
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/lock_core.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/lock_core.c.obj: C:/Workspace/Pico/pico-sdk/src/common/pico_sync/lock_core.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/lock_core.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/lock_core.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/lock_core.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/lock_core.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj -c C:\Workspace\Pico\pico-sdk\src\common\pico_sync\lock_core.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/lock_core.c.i: cmake_force
@@ -210,7 +224,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/l
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/mutex.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/mutex.c.obj: C:/Workspace/Pico/pico-sdk/src/common/pico_sync/mutex.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/mutex.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/mutex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/mutex.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/mutex.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_sync\mutex.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_sync\mutex.c.obj -c C:\Workspace\Pico\pico-sdk\src\common\pico_sync\mutex.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/mutex.c.i: cmake_force
@@ -224,7 +238,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/m
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/critical_section.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/critical_section.c.obj: C:/Workspace/Pico/pico-sdk/src/common/pico_sync/critical_section.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/critical_section.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/critical_section.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/critical_section.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/critical_section.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj -c C:\Workspace\Pico\pico-sdk\src\common\pico_sync\critical_section.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/critical_section.c.i: cmake_force
@@ -238,7 +252,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_sync/c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/time.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/time.c.obj: C:/Workspace/Pico/pico-sdk/src/common/pico_time/time.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/time.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/time.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/time.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/time.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_time\time.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_time\time.c.obj -c C:\Workspace\Pico\pico-sdk\src\common\pico_time\time.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/time.c.i: cmake_force
@@ -252,7 +266,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/t
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj: C:/Workspace/Pico/pico-sdk/src/common/pico_time/timeout_helper.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj -c C:\Workspace\Pico\pico-sdk\src\common\pico_time\timeout_helper.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/timeout_helper.c.i: cmake_force
@@ -266,7 +280,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_time/t
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.i: cmake_force
@@ -280,7 +294,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/datetime.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/datetime.c.obj: C:/Workspace/Pico/pico-sdk/src/common/pico_util/datetime.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/datetime.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/datetime.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/datetime.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/datetime.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_util\datetime.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_util\datetime.c.obj -c C:\Workspace\Pico\pico-sdk\src\common\pico_util\datetime.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/datetime.c.i: cmake_force
@@ -294,7 +308,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/d
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/pheap.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/pheap.c.obj: C:/Workspace/Pico/pico-sdk/src/common/pico_util/pheap.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/pheap.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/pheap.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/pheap.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/pheap.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_util\pheap.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_util\pheap.c.obj -c C:\Workspace\Pico\pico-sdk\src\common\pico_util\pheap.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/pheap.c.i: cmake_force
@@ -308,7 +322,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/p
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/queue.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/queue.c.obj: C:/Workspace/Pico/pico-sdk/src/common/pico_util/queue.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/queue.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/queue.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/queue.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/queue.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_util\queue.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\common\pico_util\queue.c.obj -c C:\Workspace\Pico\pico-sdk\src\common\pico_util\queue.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/queue.c.i: cmake_force
@@ -322,7 +336,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/common/pico_util/q
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.i: cmake_force
@@ -336,7 +350,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i: cmake_force
@@ -350,7 +364,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.i: cmake_force
@@ -364,7 +378,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i: cmake_force
@@ -378,7 +392,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i: cmake_force
@@ -392,7 +406,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i: cmake_force
@@ -405,7 +419,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj   -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.i: cmake_force
@@ -419,7 +433,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i: cmake_force
@@ -433,7 +447,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_ru
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_printf/printf.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.i: cmake_force
@@ -446,7 +460,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_pr
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj   -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.i: cmake_force
@@ -460,7 +474,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bi
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i: cmake_force
@@ -473,7 +487,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_bo
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_divider/divider.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj   -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_divider/divider.S.i: cmake_force
@@ -486,7 +500,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_di
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj   -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.i: cmake_force
@@ -500,7 +514,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_do
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i: cmake_force
@@ -514,7 +528,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_do
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_math.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.i: cmake_force
@@ -527,7 +541,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_do
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj   -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.i: cmake_force
@@ -540,7 +554,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_do
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj   -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.i: cmake_force
@@ -553,7 +567,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_in
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj   -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.i: cmake_force
@@ -567,7 +581,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_fl
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i: cmake_force
@@ -581,7 +595,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_fl
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_math.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.i: cmake_force
@@ -594,7 +608,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_fl
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj   -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.i: cmake_force
@@ -608,7 +622,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_fl
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i: cmake_force
@@ -621,7 +635,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_ma
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj   -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.i: cmake_force
@@ -634,7 +648,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_me
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building ASM object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj   -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.i: cmake_force
@@ -648,7 +662,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_st
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.i: cmake_force
@@ -662,7 +676,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_st
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i: cmake_force
@@ -676,7 +690,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_st
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i: cmake_force
@@ -690,7 +704,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_st
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i: cmake_force
@@ -704,7 +718,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_st
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i: cmake_force
@@ -718,7 +732,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_st
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i: cmake_force
@@ -732,7 +746,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_st
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i: cmake_force
@@ -746,7 +760,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_un
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i: cmake_force
@@ -760,7 +774,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i: cmake_force
@@ -774,7 +788,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portab
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i: cmake_force
@@ -788,7 +802,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/portab
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i: cmake_force
@@ -802,7 +816,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i: cmake_force
@@ -816,7 +830,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/device
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i: cmake_force
@@ -830,7 +844,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i: cmake_force
@@ -844,7 +858,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i: cmake_force
@@ -858,7 +872,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i: cmake_force
@@ -872,7 +886,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i: cmake_force
@@ -886,7 +900,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i: cmake_force
@@ -900,7 +914,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i: cmake_force
@@ -914,7 +928,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i: cmake_force
@@ -928,7 +942,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i: cmake_force
@@ -942,7 +956,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i: cmake_force
@@ -956,7 +970,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i: cmake_force
@@ -970,7 +984,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i: cmake_force
@@ -984,7 +998,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/class/
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/tusb.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\tusb.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/tusb.c.i: cmake_force
@@ -998,7 +1012,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/tusb.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: C:/Workspace/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj -c C:\Workspace\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i: cmake_force
@@ -1012,7 +1026,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/tinyusb/src/common
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i: cmake_force
@@ -1026,7 +1040,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_fi
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_lwip/lwip_nosys.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_lwip/lwip_nosys.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_lwip/lwip_nosys.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_lwip/lwip_nosys.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_lwip/lwip_nosys.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_lwip/lwip_nosys.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_lwip/lwip_nosys.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_lwip\lwip_nosys.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_lwip\lwip_nosys.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_lwip\lwip_nosys.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_lwip/lwip_nosys.c.i: cmake_force
@@ -1040,7 +1054,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_lw
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_async_context\async_context_base.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_async_context\async_context_base.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_async_context\async_context_base.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_base.c.i: cmake_force
@@ -1054,7 +1068,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_as
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_rand/rand.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_rand/rand.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_rand/rand.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_rand/rand.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_rand/rand.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_rand/rand.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_rand/rand.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_rand\rand.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_rand\rand.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_rand\rand.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_rand/rand.c.i: cmake_force
@@ -1068,7 +1082,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_ra
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/init.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/init.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/init.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/init.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/init.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/init.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/init.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\init.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\init.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\init.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/init.c.i: cmake_force
@@ -1082,7 +1096,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/init
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/def.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/def.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/def.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/def.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/def.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/def.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/def.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\def.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\def.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\def.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/def.c.i: cmake_force
@@ -1096,7 +1110,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/def.
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/dns.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/dns.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/dns.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/dns.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/dns.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/dns.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/dns.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\dns.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\dns.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\dns.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/dns.c.i: cmake_force
@@ -1110,7 +1124,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/dns.
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/inet_chksum.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/inet_chksum.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\inet_chksum.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\inet_chksum.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\inet_chksum.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/inet_chksum.c.i: cmake_force
@@ -1124,7 +1138,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/inet
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ip.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ip.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ip.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ip.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ip.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ip.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ip.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ip.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ip.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ip.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ip.c.i: cmake_force
@@ -1138,7 +1152,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ip.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/mem.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/mem.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/mem.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/mem.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/mem.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/mem.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/mem.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\mem.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\mem.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\mem.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/mem.c.i: cmake_force
@@ -1152,7 +1166,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/mem.
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/memp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/memp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/memp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/memp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/memp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/memp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/memp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\memp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\memp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\memp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/memp.c.i: cmake_force
@@ -1166,7 +1180,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/memp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/netif.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/netif.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/netif.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/netif.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/netif.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/netif.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/netif.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\netif.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\netif.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\netif.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/netif.c.i: cmake_force
@@ -1180,7 +1194,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/neti
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/pbuf.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/pbuf.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/pbuf.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/pbuf.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/pbuf.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/pbuf.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/pbuf.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\pbuf.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\pbuf.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\pbuf.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/pbuf.c.i: cmake_force
@@ -1194,7 +1208,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/pbuf
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/raw.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/raw.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/raw.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/raw.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/raw.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/raw.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/raw.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\raw.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\raw.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\raw.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/raw.c.i: cmake_force
@@ -1208,7 +1222,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/raw.
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/stats.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/stats.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/stats.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/stats.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/stats.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/stats.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/stats.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\stats.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\stats.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\stats.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/stats.c.i: cmake_force
@@ -1222,7 +1236,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/stat
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/sys.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/sys.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/sys.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/sys.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/sys.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/sys.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/sys.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\sys.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\sys.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\sys.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/sys.c.i: cmake_force
@@ -1236,7 +1250,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/sys.
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\altcp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\altcp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\altcp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp.c.i: cmake_force
@@ -1250,7 +1264,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altc
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_alloc.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_alloc.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\altcp_alloc.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\altcp_alloc.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\altcp_alloc.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_alloc.c.i: cmake_force
@@ -1264,7 +1278,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altc
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_tcp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_tcp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\altcp_tcp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\altcp_tcp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\altcp_tcp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altcp_tcp.c.i: cmake_force
@@ -1278,7 +1292,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/altc
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\tcp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\tcp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\tcp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp.c.i: cmake_force
@@ -1292,7 +1306,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp.
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_in.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_in.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_in.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_in.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_in.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_in.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_in.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\tcp_in.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\tcp_in.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\tcp_in.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_in.c.i: cmake_force
@@ -1306,7 +1320,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_out.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_out.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_out.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_out.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_out.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_out.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_out.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\tcp_out.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\tcp_out.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\tcp_out.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_out.c.i: cmake_force
@@ -1320,7 +1334,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/tcp_
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/timeouts.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/timeouts.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/timeouts.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/timeouts.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/timeouts.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/timeouts.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/timeouts.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\timeouts.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\timeouts.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\timeouts.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/timeouts.c.i: cmake_force
@@ -1334,7 +1348,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/time
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/udp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/udp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/udp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/udp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/udp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/udp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/udp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\udp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\udp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\udp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/udp.c.i: cmake_force
@@ -1348,7 +1362,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/udp.
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/autoip.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\autoip.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\autoip.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\autoip.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/autoip.c.i: cmake_force
@@ -1362,7 +1376,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\dhcp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\dhcp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\dhcp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/dhcp.c.i: cmake_force
@@ -1376,7 +1390,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/etharp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\etharp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\etharp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\etharp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/etharp.c.i: cmake_force
@@ -1390,7 +1404,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/icmp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\icmp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\icmp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\icmp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/icmp.c.i: cmake_force
@@ -1404,7 +1418,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/igmp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\igmp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\igmp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\igmp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/igmp.c.i: cmake_force
@@ -1418,7 +1432,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\ip4_frag.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\ip4_frag.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\ip4_frag.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_frag.c.i: cmake_force
@@ -1432,7 +1446,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\ip4.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\ip4.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\ip4.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4.c.i: cmake_force
@@ -1446,7 +1460,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\ip4_addr.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\ip4_addr.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\ip4_addr.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/ip4_addr.c.i: cmake_force
@@ -1460,7 +1474,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/acd.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/acd.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\acd.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\acd.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv4\acd.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4/acd.c.i: cmake_force
@@ -1474,7 +1488,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv4
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\dhcp6.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\dhcp6.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\dhcp6.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/dhcp6.c.i: cmake_force
@@ -1488,7 +1502,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\ethip6.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\ethip6.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\ethip6.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ethip6.c.i: cmake_force
@@ -1502,7 +1516,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\icmp6.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\icmp6.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\icmp6.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/icmp6.c.i: cmake_force
@@ -1516,7 +1530,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/inet6.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\inet6.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\inet6.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\inet6.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/inet6.c.i: cmake_force
@@ -1530,7 +1544,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\ip6.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\ip6.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\ip6.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6.c.i: cmake_force
@@ -1544,7 +1558,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\ip6_addr.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\ip6_addr.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\ip6_addr.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_addr.c.i: cmake_force
@@ -1558,7 +1572,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\ip6_frag.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\ip6_frag.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\ip6_frag.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/ip6_frag.c.i: cmake_force
@@ -1572,7 +1586,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/mld6.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\mld6.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\mld6.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\mld6.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/mld6.c.i: cmake_force
@@ -1586,7 +1600,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/nd6.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\nd6.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\nd6.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\core\ipv6\nd6.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6/nd6.c.i: cmake_force
@@ -1600,7 +1614,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/core/ipv6
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_lib.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_lib.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_lib.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_lib.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_lib.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_lib.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_lib.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\api_lib.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\api_lib.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\api\api_lib.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_lib.c.i: cmake_force
@@ -1614,7 +1628,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_l
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_msg.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_msg.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_msg.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_msg.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_msg.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_msg.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_msg.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\api_msg.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\api_msg.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\api\api_msg.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_msg.c.i: cmake_force
@@ -1628,7 +1642,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/api_m
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/err.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/err.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/api/err.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/err.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/err.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/err.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/err.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\err.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\err.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\api\err.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/err.c.i: cmake_force
@@ -1642,7 +1656,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/err.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/if_api.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/if_api.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/api/if_api.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/if_api.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/if_api.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/if_api.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/if_api.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\if_api.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\if_api.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\api\if_api.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/if_api.c.i: cmake_force
@@ -1656,7 +1670,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/if_ap
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netbuf.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netbuf.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/api/netbuf.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netbuf.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netbuf.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netbuf.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netbuf.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\netbuf.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\netbuf.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\api\netbuf.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netbuf.c.i: cmake_force
@@ -1670,7 +1684,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netbu
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netdb.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netdb.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/api/netdb.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netdb.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netdb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netdb.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netdb.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\netdb.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\netdb.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\api\netdb.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netdb.c.i: cmake_force
@@ -1684,7 +1698,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netdb
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netifapi.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netifapi.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/api/netifapi.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netifapi.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netifapi.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netifapi.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netifapi.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\netifapi.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\netifapi.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\api\netifapi.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netifapi.c.i: cmake_force
@@ -1698,7 +1712,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/netif
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/sockets.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/sockets.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/api/sockets.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/sockets.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/sockets.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/sockets.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/sockets.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\sockets.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\sockets.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\api\sockets.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/sockets.c.i: cmake_force
@@ -1712,7 +1726,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/socke
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/tcpip.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/tcpip.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/api/tcpip.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/tcpip.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/tcpip.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/tcpip.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/tcpip.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\tcpip.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\api\tcpip.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\api\tcpip.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/tcpip.c.i: cmake_force
@@ -1726,7 +1740,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/api/tcpip
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ethernet.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ethernet.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ethernet.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ethernet.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ethernet.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ethernet.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ethernet.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ethernet.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ethernet.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ethernet.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ethernet.c.i: cmake_force
@@ -1740,7 +1754,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/eth
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\bridgeif.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\bridgeif.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\bridgeif.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif.c.i: cmake_force
@@ -1754,7 +1768,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bri
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\bridgeif_fdb.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\bridgeif_fdb.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\bridgeif_fdb.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bridgeif_fdb.c.i: cmake_force
@@ -1768,7 +1782,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/bri
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/slipif.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/slipif.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/slipif.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/slipif.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/slipif.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/slipif.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/slipif.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\slipif.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\slipif.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\slipif.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/slipif.c.i: cmake_force
@@ -1782,7 +1796,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/sli
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_common.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\lowpan6_common.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\lowpan6_common.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\lowpan6_common.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_common.c.i: cmake_force
@@ -1796,7 +1810,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/low
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\lowpan6.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\lowpan6.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\lowpan6.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6.c.i: cmake_force
@@ -1810,7 +1824,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/low
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\lowpan6_ble.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\lowpan6_ble.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\lowpan6_ble.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/lowpan6_ble.c.i: cmake_force
@@ -1824,7 +1838,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/low
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/zepif.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/zepif.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/zepif.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/zepif.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/zepif.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/zepif.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/zepif.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\zepif.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\zepif.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\zepif.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/zepif.c.i: cmake_force
@@ -1838,7 +1852,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/zep
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/auth.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/auth.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\auth.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\auth.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\auth.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/auth.c.i: cmake_force
@@ -1852,7 +1866,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ccp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ccp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ccp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ccp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ccp.c.i: cmake_force
@@ -1866,7 +1880,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\chap-md5.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\chap-md5.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\chap-md5.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-md5.c.i: cmake_force
@@ -1880,7 +1894,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\chap_ms.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\chap_ms.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\chap_ms.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap_ms.c.i: cmake_force
@@ -1894,7 +1908,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\chap-new.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\chap-new.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\chap-new.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/chap-new.c.i: cmake_force
@@ -1908,7 +1922,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/demand.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/demand.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\demand.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\demand.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\demand.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/demand.c.i: cmake_force
@@ -1922,7 +1936,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eap.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eap.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\eap.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\eap.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\eap.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eap.c.i: cmake_force
@@ -1936,7 +1950,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ecp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ecp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ecp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ecp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ecp.c.i: cmake_force
@@ -1950,7 +1964,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eui64.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\eui64.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\eui64.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\eui64.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/eui64.c.i: cmake_force
@@ -1964,7 +1978,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/fsm.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\fsm.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\fsm.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\fsm.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/fsm.c.i: cmake_force
@@ -1978,7 +1992,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ipcp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ipcp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ipcp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipcp.c.i: cmake_force
@@ -1992,7 +2006,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ipv6cp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ipv6cp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ipv6cp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ipv6cp.c.i: cmake_force
@@ -2006,7 +2020,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/lcp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\lcp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\lcp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\lcp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/lcp.c.i: cmake_force
@@ -2020,7 +2034,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/magic.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/magic.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\magic.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\magic.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\magic.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/magic.c.i: cmake_force
@@ -2034,7 +2048,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/mppe.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\mppe.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\mppe.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\mppe.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/mppe.c.i: cmake_force
@@ -2048,7 +2062,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/multilink.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\multilink.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\multilink.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\multilink.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/multilink.c.i: cmake_force
@@ -2062,7 +2076,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ppp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ppp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ppp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\ppp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/ppp.c.i: cmake_force
@@ -2076,7 +2090,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppapi.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppapi.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppapi.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppapi.c.i: cmake_force
@@ -2090,7 +2104,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppcrypt.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppcrypt.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppcrypt.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppcrypt.c.i: cmake_force
@@ -2104,7 +2118,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppoe.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppoe.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppoe.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppoe.c.i: cmake_force
@@ -2118,7 +2132,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppol2tp.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppol2tp.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppol2tp.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppol2tp.c.i: cmake_force
@@ -2132,7 +2146,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppos.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppos.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppos.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\pppos.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/pppos.c.i: cmake_force
@@ -2146,7 +2160,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/upap.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/upap.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\upap.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\upap.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\upap.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/upap.c.i: cmake_force
@@ -2160,7 +2174,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/utils.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/utils.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\utils.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\utils.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\utils.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/utils.c.i: cmake_force
@@ -2174,7 +2188,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/vj.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/vj.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\vj.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\vj.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\vj.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/vj.c.i: cmake_force
@@ -2188,7 +2202,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\arc4.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\arc4.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\arc4.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/arc4.c.i: cmake_force
@@ -2202,7 +2216,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\des.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\des.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\des.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/des.c.i: cmake_force
@@ -2216,7 +2230,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\md4.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\md4.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\md4.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md4.c.i: cmake_force
@@ -2230,7 +2244,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\md5.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\md5.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\md5.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/md5.c.i: cmake_force
@@ -2244,7 +2258,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\sha1.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\sha1.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\netif\ppp\polarssl\sha1.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp/polarssl/sha1.c.i: cmake_force
@@ -2258,7 +2272,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/netif/ppp
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_arch\cyw43_arch.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_arch\cyw43_arch.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_arch\cyw43_arch.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch.c.i: cmake_force
@@ -2272,7 +2286,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cy
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_arch\cyw43_arch_poll.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_arch\cyw43_arch_poll.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_arch\cyw43_arch_poll.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c.i: cmake_force
@@ -2286,7 +2300,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cy
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_arch\cyw43_arch_threadsafe_background.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_arch\cyw43_arch_threadsafe_background.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_arch\cyw43_arch_threadsafe_background.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c.i: cmake_force
@@ -2300,7 +2314,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cy
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_arch\cyw43_arch_freertos.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_arch\cyw43_arch_freertos.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_arch\cyw43_arch_freertos.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c.i: cmake_force
@@ -2314,7 +2328,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cy
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_driver\cyw43_bus_pio_spi.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_driver\cyw43_bus_pio_spi.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_driver\cyw43_bus_pio_spi.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.i: cmake_force
@@ -2328,7 +2342,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cy
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj: C:/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\cyw43-driver\src\cyw43_ll.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\cyw43-driver\src\cyw43_ll.c.obj -c C:\Workspace\Pico\pico-sdk\lib\cyw43-driver\src\cyw43_ll.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ll.c.i: cmake_force
@@ -2342,7 +2356,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj: C:/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\cyw43-driver\src\cyw43_stats.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\cyw43-driver\src\cyw43_stats.c.obj -c C:\Workspace\Pico\pico-sdk\lib\cyw43-driver\src\cyw43_stats.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_stats.c.i: cmake_force
@@ -2356,7 +2370,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj: C:/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\cyw43-driver\src\cyw43_lwip.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\cyw43-driver\src\cyw43_lwip.c.obj -c C:\Workspace\Pico\pico-sdk\lib\cyw43-driver\src\cyw43_lwip.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_lwip.c.i: cmake_force
@@ -2370,7 +2384,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj: C:/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\cyw43-driver\src\cyw43_ctrl.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\cyw43-driver\src\cyw43_ctrl.c.obj -c C:\Workspace\Pico\pico-sdk\lib\cyw43-driver\src\cyw43_ctrl.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/cyw43_ctrl.c.i: cmake_force
@@ -2384,7 +2398,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/cyw43-driver/src/c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_driver\cybt_shared_bus\cybt_shared_bus.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_driver\cybt_shared_bus\cybt_shared_bus.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_driver\cybt_shared_bus\cybt_shared_bus.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c.i: cmake_force
@@ -2398,7 +2412,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cy
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_driver\cybt_shared_bus\cybt_shared_bus_driver.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_driver\cybt_shared_bus\cybt_shared_bus_driver.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_driver\cybt_shared_bus\cybt_shared_bus_driver.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c.i: cmake_force
@@ -2412,7 +2426,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cy
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pio/pio.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_170) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_pio\pio.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_pio\pio.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_pio\pio.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_pio/pio.c.i: cmake_force
@@ -2426,7 +2440,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_dma/dma.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_170) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_171) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_dma\dma.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_dma\dma.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_dma\dma.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_dma/dma.c.i: cmake_force
@@ -2440,7 +2454,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/hardware_exception/exception.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_171) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_172) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_exception\exception.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\hardware_exception\exception.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\hardware_exception\exception.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_exception/exception.c.i: cmake_force
@@ -2454,7 +2468,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardwar
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_172) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_driver\cyw43_driver.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_driver\cyw43_driver.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_cyw43_driver\cyw43_driver.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.i: cmake_force
@@ -2468,7 +2482,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_cy
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj: C:/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_async_context\async_context_threadsafe_background.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\src\rp2_common\pico_async_context\async_context_threadsafe_background.c.obj -c C:\Workspace\Pico\pico-sdk\src\rp2_common\pico_async_context\async_context_threadsafe_background.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.i: cmake_force
@@ -2482,7 +2496,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_as
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/altcp_proxyconnect.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/altcp_proxyconnect.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/altcp_proxyconnect.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/altcp_proxyconnect.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/altcp_proxyconnect.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/altcp_proxyconnect.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/altcp_proxyconnect.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\apps\http\altcp_proxyconnect.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\apps\http\altcp_proxyconnect.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\apps\http\altcp_proxyconnect.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/altcp_proxyconnect.c.i: cmake_force
@@ -2496,7 +2510,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/fs.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/fs.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/fs.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/fs.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/fs.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/fs.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/fs.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\apps\http\fs.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\apps\http\fs.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\apps\http\fs.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/fs.c.i: cmake_force
@@ -2510,7 +2524,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/http_client.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/http_client.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/http_client.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/http_client.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/http_client.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/http_client.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/http_client.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\apps\http\http_client.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\apps\http\http_client.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\apps\http\http_client.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/http_client.c.i: cmake_force
@@ -2524,7 +2538,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/httpd.c.obj: CMakeFiles/buttonInterface.dir/flags.make
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/httpd.c.obj: C:/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/httpd.c
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/httpd.c.obj: CMakeFiles/buttonInterface.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/httpd.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building C object CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/httpd.c.obj"
 	C:\PROGRA~2\ARMGNU~1\12DBAB~1.2RE\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/httpd.c.obj -MF CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\apps\http\httpd.c.obj.d -o CMakeFiles\buttonInterface.dir\C_\Workspace\Pico\pico-sdk\lib\lwip\src\apps\http\httpd.c.obj -c C:\Workspace\Pico\pico-sdk\lib\lwip\src\apps\http\httpd.c
 
 CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http/httpd.c.i: cmake_force
@@ -2538,6 +2552,7 @@ CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/lib/lwip/src/apps/http
 # Object files for target buttonInterface
 buttonInterface_OBJECTS = \
 "CMakeFiles/buttonInterface.dir/buttonInterface.c.obj" \
+"CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.obj" \
 "CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" \
 "CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj" \
 "CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj" \
@@ -2719,6 +2734,7 @@ buttonInterface_OBJECTS = \
 buttonInterface_EXTERNAL_OBJECTS =
 
 buttonInterface.elf: CMakeFiles/buttonInterface.dir/buttonInterface.c.obj
+buttonInterface.elf: CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.obj
 buttonInterface.elf: CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
 buttonInterface.elf: CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
 buttonInterface.elf: CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
@@ -2899,7 +2915,7 @@ buttonInterface.elf: CMakeFiles/buttonInterface.dir/build.make
 buttonInterface.elf: pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
 buttonInterface.elf: CMakeFiles/buttonInterface.dir/objects1.rsp
 buttonInterface.elf: CMakeFiles/buttonInterface.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Linking CXX executable buttonInterface.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Workspace\Pico\buttonInterface\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_179) "Linking CXX executable buttonInterface.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\buttonInterface.dir\link.txt --verbose=$(VERBOSE)
 	"C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\bin\arm-none-eabi-objcopy.exe" -Oihex C:/Workspace/Pico/buttonInterface/build/buttonInterface.elf buttonInterface.hex
 	"C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\bin\arm-none-eabi-objcopy.exe" -Obinary C:/Workspace/Pico/buttonInterface/build/buttonInterface.elf buttonInterface.bin

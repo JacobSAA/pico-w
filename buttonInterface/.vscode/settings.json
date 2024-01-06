@@ -13,6 +13,8 @@
         "xlocale": "c",
         "xstring": "c",
         "*.inc": "c",
-        "iosfwd": "c"
+        "iosfwd": "c",
+        "pbuf.h": "c",
+        "cyw43_arch.h": "c"
     }
 }

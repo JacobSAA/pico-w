@@ -340,6 +340,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj.d"
   "CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
   "CMakeFiles/buttonInterface.dir/C_/Workspace/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj.d"
+  "CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.obj"
+  "CMakeFiles/buttonInterface.dir/apiCall/apiCall.c.obj.d"
   "CMakeFiles/buttonInterface.dir/buttonInterface.c.obj"
   "CMakeFiles/buttonInterface.dir/buttonInterface.c.obj.d"
   "buttonInterface.elf"

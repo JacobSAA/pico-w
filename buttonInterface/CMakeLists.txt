@@ -12,6 +12,7 @@ pico_sdk_init()
 
 add_executable(buttonInterface
     buttonInterface.c
+    apicall/apiCall.c
 )
 
 # enable usb output, disable uart output
@@ -21,7 +22,9 @@ pico_enable_stdio_uart(buttonInterface 0)
 
 pico_add_extra_outputs(buttonInterface)
 
-target_include_directories(buttonInterface PRIVATE ${CMAKE_CURRENT_LIST_DIR} )
+target_include_directories(buttonInterface PRIVATE 
+    ${CMAKE_CURRENT_LIST_DIR}
+)
 
 target_link_libraries(buttonInterface
 pico_stdlib              # for core functionality
